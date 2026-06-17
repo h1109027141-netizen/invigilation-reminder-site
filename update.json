@@ -1,10 +1,10 @@
 {
   "enabled": true,
-  "versionCode": 25,
-  "versionName": "1.24",
+  "versionCode": 26,
+  "versionName": "1.25",
   "force": false,
   "autoDownload": false,
-  "apkUrl": "downloads/invigilation-reminder-assistant-v1.24.apk",
-  "sha256": "2b98e9c0e299db64a050b3808d8a44cf07aa7664704bff5b42012b41dc5afc81",
-  "releaseNotes": "更新内容：我的安排按考试时间顺序排列；日期和星期几改为按真实日期自动对应。原有监考和巡考数据会保留。"
+  "apkUrl": "downloads/invigilation-reminder-assistant-v1.25.apk",
+  "sha256": "de849b12a4199b1035903d749851a3133914ff36cf6858fdba8c40fbf9570e86",
+  "releaseNotes": "更新内容：修复 6.26 等简写日期无法参与时间排序的问题；日期和星期几按真实日期重新计算。原有监考和巡考数据会保留。"
 }
