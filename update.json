@@ -1,10 +1,10 @@
 {
   "enabled": true,
-  "versionCode": 24,
-  "versionName": "1.23",
+  "versionCode": 25,
+  "versionName": "1.24",
   "force": false,
   "autoDownload": false,
-  "apkUrl": "downloads/invigilation-reminder-assistant-v1.23.apk",
-  "sha256": "290bd3326f6881d2de6ca18eee91be8dd2a0cf2e9a942d2fed0934c099a20679",
-  "releaseNotes": "更新内容：优化监考表图片识别，增强 2026-06-14、表格线干扰日期、单行截图等 OCR 场景；原有监考和巡考数据会保留。"
+  "apkUrl": "downloads/invigilation-reminder-assistant-v1.24.apk",
+  "sha256": "2b98e9c0e299db64a050b3808d8a44cf07aa7664704bff5b42012b41dc5afc81",
+  "releaseNotes": "更新内容：我的安排按考试时间顺序排列；日期和星期几改为按真实日期自动对应。原有监考和巡考数据会保留。"
 }
